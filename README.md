@@ -6,8 +6,10 @@
 - 📚 Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pela FAETERJ-Rio.  
 
 📫 **Conecte-se comigo:**  
-- [LinkedIn](www.linkedin.com/in/rômulo-reis-tavares-67b0bb86)    
-
+- [LinkedIn](www.linkedin.com/in/rômulo-reis-tavares-67b0bb86)
+- [Instagram](www.instagram.com/romuloreistavares)
+- [Facebook](www.facebook.com/romuloreistavares)
+    
 ⚙️ **Tecnologias que uso:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
