@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Rômulo! 👋
 
-<!--
-**Romulo-Reis/Romulo-Reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Sobre mim:**  
+- 🧑‍💻 Desenvolvedor fullstack, especializado em JavaScript, Node.js, Express, AdonisJs, ReactJS e bancos de dados como PostgreSQL e MongoDB.   
+- 📚 Pós-graduado em Engenharia de Software pela PUC-Minas.  
+- 📚 Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pela FAETERJ-Rio.  
 
-Here are some ideas to get you started:
+📫 **Conecte-se comigo:**  
+- [LinkedIn](www.linkedin.com/in/rômulo-reis-tavares-67b0bb86)    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ **Tecnologias que uso:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+![AdonisJs](https://img.shields.io/badge/-AdonisJs-333333?style=flat&logo=AdonisJs)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+✨ **Estatísticas do GitHub:**  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Romulo-Reis&show_icons=true&theme=dracula)
