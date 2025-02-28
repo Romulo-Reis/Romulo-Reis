@@ -20,5 +20,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ✨ **Estatísticas do GitHub:**  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Romulo-Reis&show_icons=true&theme=dracula)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Reis&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Romulo-Reis&show_icons=true&theme=nightowl)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Reis&show_icons=true&theme=nightowl)
+
+⚡ **Gráfico de Atividades:**
+![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=Romulo-Reis&show_icons=true&theme=nightowl)
+
+
+🔝 **Repositório com mais contribuições:**
+![Repositório com mais contribuições](https://github-contributor-stats.vercel.app/api?username=Romulo-Reis&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
